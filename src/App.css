@@ -1,0 +1,26 @@
+body {
+  display: block;
+ 
+}
+nav {
+  display: flex;
+  justify-content: center;
+}
+.user {
+  list-style: none;
+  display:  flex; 
+  gap: 10px;
+}
+.user li a{
+  color: black;
+}
+.table {
+  padding: 0 700px;
+}
+.custom {
+  text-decoration: none;
+  color: white;
+ }
+ .delete  {
+  margin-left: 3px;
+ }

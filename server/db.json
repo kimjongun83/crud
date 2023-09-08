@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 10,
+      "name": "James",
+      "email": "james@hotmail.com"
+    },
+    {
+      "name": "tony",
+      "email": "tony@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "dat112",
+      "email": "dat112@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "quocdat16",
+      "email": "quocdat16@gmail.com",
+      "": "s",
+      "id": 13
+    },
+    {
+      "name": "Linh",
+      "email": "lin@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "đ",
+      "email": "d@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Đồng hồ",
+      "email": "datthq@gmail.com",
+      "id": 16
+    }
+  ]
+}
